@@ -1,0 +1,29 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "DragonBones",
+    "Collider",
+    "VideoPlayer",
+    "TiledMap",
+    "ParticleSystem"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "023af6ad-f846-4f48-89f9-0096df3c757e",
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": false,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  }
+}

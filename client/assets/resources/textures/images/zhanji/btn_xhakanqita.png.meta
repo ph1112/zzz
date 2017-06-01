@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b238e4b2-9154-4caf-885d-5a1e8c77aadf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_xhakanqita": {
+      "ver": "1.0.3",
+      "uuid": "5a8482f0-c985-4a46-8aef-df37c1eac0f8",
+      "rawTextureUuid": "b238e4b2-9154-4caf-885d-5a1e8c77aadf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 258,
+      "height": 104,
+      "rawWidth": 258,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

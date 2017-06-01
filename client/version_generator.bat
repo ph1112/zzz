@@ -1,0 +1,1 @@
+node version_generator.js -v 1.2.0 -u http://120.77.201.230:8001/zzkwx/remote-assets/ -s build/jsb-default/ -d assets/
